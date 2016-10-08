@@ -1,0 +1,16 @@
+body {
+  padding-top: 50px;
+  background-color: black;
+}
+
+#portfolio-header {
+  color: white;
+}
+
+#contact {
+  color: white;
+}
+
+.row {
+	margin: 0 auto;
+}
